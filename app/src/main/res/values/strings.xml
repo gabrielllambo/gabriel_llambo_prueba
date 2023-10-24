@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">gabriel_llambo_prueba01</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="mostrar">Button</string>
+    <string name="apellido">Apellido:</string>
+    <string name="dividiendo">Dividiendo:</string>
+    <string name="divisor">Divisor</string>
+    <string name="perte_entera">Perte Entera:</string>
+    <string name="num_invertido">Num. Invertido</string>
+    <string name="nombre">Nombre:</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="apellido2">Apellido</string>
+</resources>
